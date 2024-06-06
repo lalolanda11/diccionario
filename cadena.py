@@ -22,10 +22,10 @@ def decrypt(var):
     num=long-3
     dcrypt=Diccion()
     while True:
-        st=dcrypt.diccionario2(var[num:long])+st
+        st=str(dcrypt.diccionario2(var[num:long]))+st
         long=long-3
         num=long-3
-        if long == 0:
+        if long < 0:
             break
     return st
 

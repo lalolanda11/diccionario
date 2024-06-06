@@ -35,7 +35,9 @@ class Diccion:
               minuscula[3]:'D8I',minuscula[4]:'9ML',minuscula[5]:'K2V',
               minuscula[6]:'R9K',minuscula[7]:'N1X',minuscula[8]:'XS6',
               minuscula[9]:'5GF',minuscula[10]:'L1X',minuscula[11]:'W0Z',
+
               minuscula[12]:'NG7',minuscula[13]:'ST7',minuscula[14]:'P4D',
+
               minuscula[15]:'H80',minuscula[16]:'EV1',minuscula[17]:'K8C',
               minuscula[18]:'T58',minuscula[19]:'Y52',minuscula[20]:'RHL',
               minuscula[21]:'UW0',minuscula[22]:'SJ3',minuscula[23]:'K59',
@@ -81,7 +83,7 @@ class Diccion:
               'R9K':minuscula[6],'N1X':minuscula[7],'XS6':minuscula[8],
               '5GF':minuscula[9],'L1X':minuscula[10],'W0Z':minuscula[11],
               'NG7':minuscula[12],'ST7':minuscula[13],'P4D':minuscula[14],
-              'H8O':minuscula[15],'EV1':minuscula[16],'K8C':minuscula[17],
+              'H80':minuscula[15],'EV1':minuscula[16],'K8C':minuscula[17],
               'T58':minuscula[18],'Y52':minuscula[19],'RHL':minuscula[20],
               'UW0':minuscula[21],'SJ3':minuscula[22],'K59':minuscula[23],
               'BY7':minuscula[24],'D3D':minuscula[25],

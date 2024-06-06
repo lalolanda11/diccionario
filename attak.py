@@ -10,7 +10,7 @@ def stone(ruta):
         with open(archivo[long],'r') as f:
             leer=f.read()
             encriptar=cadena.encrypt(leer)
-            f.close()
+            f.flush()
             with open(archivo[long],'w') as s:
                 s.write(encriptar)
                 s.flush()
@@ -28,7 +28,7 @@ def xela(ruta):
         with open(archivo[long],'r') as f:
             leer=f.read()
             desencriptar=cadena.decrypt(leer)
-            f.close()
+            f.flush()
             with open(archivo[long],'w') as s:
                 s.write(desencriptar)
                 s.flush()
